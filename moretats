@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>José Moreno | MoreTats</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+</head>
+<body>
+  <!-- Hero Section -->
+  <header class="hero">
+    <img src="img/J-M.JPG" alt="José Moreno" class="hero-img" />
+    <div class="hero-text" data-aos="fade-up">
+      <h1>José Moreno</h1>
+      <h2>Tattoo Artist</h2>
+      <p>Based in Los Angeles — resident artist at PWGalleryTattoo.<br />Specializing in high-detail realism and large-scale custom work.</p>
+      <div class="buttons">
+        <a href="#contact" class="btn">Get in touch</a>
+        <a href="#bio" class="btn">Meet José</a>
+      </div>
+    </div>
+  </header>
